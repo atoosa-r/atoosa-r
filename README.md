@@ -1,8 +1,6 @@
 ## 👋 Introduction
 
-Hi there! I'm Atoosa Rashid, a Data Scientist with over 8 years of experience in CRM, sales, and banking. I recently graduated from a data science program and I bring a unique blend of industry knowledge and technical expertise. 
-
-Some fun facts about me: I love coffee with something sweet, hikes, yoga, and volunteering. 
+Hi there! I'm Atoosa Rashid, a Data Scientist with over 8 years of experience in CRM, sales, and banking. I recently graduated from a data science program and I bring a unique blend of industry knowledge and technical expertise. Some fun facts about me: I love coffee with something sweet, hikes, yoga, and volunteering. 
 
 Feel free to explore my work and reach out if you'd like to collaborate!
 
@@ -14,6 +12,7 @@ Feel free to explore my work and reach out if you'd like to collaborate!
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
 
 ### Libraries and Frameworks
@@ -21,8 +20,8 @@ Feel free to explore my work and reach out if you'd like to collaborate!
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Seaborn_logo.svg" title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Plotly-logo-01-square.png" title="Plotly" alt="Plotly" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Seaborn_logo.svg" title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png" title="Plotly" alt="Plotly" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Scipy_logo.svg" title="SciPy" alt="SciPy" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
