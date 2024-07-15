@@ -19,22 +19,22 @@ Feel free to explore my work and reach out if you'd like to collaborate!
 `NumPy`, `Pandas`, `SciPy`
 
 #### 📈 Data Visualization
-- `Tableau`, `Matplotlib`, `Plotly`, `Seaborn`
+`Tableau`, `Matplotlib`, `Plotly`, `Seaborn`
 
 #### 🤖 Machine Learning
-- `Scikit-learn`, `TensorFlow`, `Keras`, `PyTorch`, `XGBoost`, `NLTK`
+`Scikit-learn`, `TensorFlow`, `Keras`, `PyTorch`, `XGBoost`, `NLTK`
 
 #### 📊 Statistics
-- `Hypothesis Testing`, `Regression`, `Classification`, `Clustering`, `Time Series Forecasting`, `Deep Learning`
+`Hypothesis Testing`, `Regression`, `Classification`, `Clustering`, `Time Series Forecasting`, `Deep Learning`
 
 #### ☁️ Cloud Computing
-- `AWS`, `Spark`, `Hadoop`, `Hive`, `Docker`
+`AWS`, `Spark`, `Hadoop`, `Hive`, `Docker`
 
 #### 🔧 Version Control
-- `GitHub`, `Git`
+`GitHub`, `Git`
 
 
-## 📚 Data Science Project
+## 📚 Data Science Projects:
 
 ### Enhancing Shopping Experience through Data-Driven Product Recommendations
 
