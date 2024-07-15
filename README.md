@@ -6,7 +6,7 @@ Feel free to explore my work and reach out if you'd like to collaborate!
 
 ## 🛠️ Languages and Tools:
 
-### 💻 Languages
+### Languages
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
@@ -16,19 +16,13 @@ Feel free to explore my work and reach out if you'd like to collaborate!
 </div>
 
 ### 🔢 Data Analysis Libraries
-- NumPy
-- Pandas
-- SciPy
+`NumPy`, `Pandas`, `SciPy`
 
 ### 📈 Data Visualization
-- Tableau
-- Matplotlib
-- Plotly
-- Seaborn
+- `Tableau`, `Matplotlib`, `Plotly`, `Seaborn`
 
 ### 🤖 Machine Learning
-- Scikit-learn
-- TensorFlow
+- `Scikit-learn`, `TensorFlow`
 - Keras
 - PyTorch
 - XGBoost
