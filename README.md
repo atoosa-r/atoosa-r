@@ -15,37 +15,23 @@ Feel free to explore my work and reach out if you'd like to collaborate!
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
 
-### 🔢 Data Analysis Libraries
+#### 🔢 Data Analysis Libraries
 `NumPy`, `Pandas`, `SciPy`
 
-### 📈 Data Visualization
+#### 📈 Data Visualization
 - `Tableau`, `Matplotlib`, `Plotly`, `Seaborn`
 
-### 🤖 Machine Learning
-- `Scikit-learn`, `TensorFlow`
-- Keras
-- PyTorch
-- XGBoost
-- NLTK
+#### 🤖 Machine Learning
+- `Scikit-learn`, `TensorFlow`, `Keras`, `PyTorch`, `XGBoost`, `NLTK`
 
-### 📊 Statistics
-- Hypothesis Testing
-- Regression
-- Classification
-- Clustering
-- Time Series Forecasting
-- Deep Learning
+#### 📊 Statistics
+- `Hypothesis Testing`, `Regression`, `Classification`, `Clustering`, `Time Series Forecasting`, `Deep Learning`
 
-### ☁️ Cloud Computing
-- AWS
-- Spark
-- Hadoop
-- Hive
-- Docker
+#### ☁️ Cloud Computing
+- `AWS`, `Spark`, `Hadoop`, `Hive`, `Docker`
 
-### 🔧 Version Control
-- GitHub
-- Git
+#### 🔧 Version Control
+- `GitHub`, `Git`
 
 
 ## 📚 Data Science Project
