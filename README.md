@@ -6,7 +6,7 @@ Feel free to explore my work and reach out if you'd like to collaborate!
 
 ## 🛠️ Languages and Tools:
 
-### Languages
+### 💻 Languages
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
@@ -15,27 +15,44 @@ Feel free to explore my work and reach out if you'd like to collaborate!
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
 
-### Libraries and Frameworks
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Seaborn_logo.svg" title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png" title="Plotly" alt="Plotly" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scipy/scipy-original.svg" title="SciPy" alt="SciPy" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Nltk_logo.png" title="NLTK" alt="NLTK" width="40" height="40"/>&nbsp;
-</div>
+### 🔢 Data Analysis Libraries
+- NumPy
+- Pandas
+- SciPy
 
-### Cloud and Big Data
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Hadoop_logo_new.svg" title="Hadoop" alt="Hadoop" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" title="Spark" alt="Spark" width="40" height="40"/>&nbsp;
-</div>
+### 📈 Data Visualization
+- Tableau
+- Matplotlib
+- Plotly
+- Seaborn
+
+### 🤖 Machine Learning
+- Scikit-learn
+- TensorFlow
+- Keras
+- PyTorch
+- XGBoost
+- NLTK
+
+### 📊 Statistics
+- Hypothesis Testing
+- Regression
+- Classification
+- Clustering
+- Time Series Forecasting
+- Deep Learning
+
+### ☁️ Cloud Computing
+- AWS
+- Spark
+- Hadoop
+- Hive
+- Docker
+
+### 🔧 Version Control
+- GitHub
+- Git
+
 
 ## 📚 Data Science Project
 
