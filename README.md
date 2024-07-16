@@ -42,7 +42,7 @@ Feel free to explore my work and reach out if you'd like to collaborate!
 
 Analyzed H&M Group datasets using advanced data preprocessing techniques. Developed multiple recommender systems incorporating User-Item Collaborative Filtering, Matrix Factorization, and BERT-based systems.
 
-For more details, visit the [repository](https://github.com/atoosa-r/hm-recommendation-system).
+For more details, visit the [repository](https://github.com/atoosa-r/BrainStationCapstone).
 
 ## 🔗 Let's Connect! 
 
