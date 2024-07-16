@@ -4,7 +4,7 @@ Hi there! I'm Atoosa Rashid, a Data Scientist with over 8 years of experience in
 
 Some fun facts about me: I love coffee (usually alongside something sweet), hikes, yoga, and volunteering. 
 
-Below is an example of my impressive modelling skills via a little Python function to predict the likelihood of me getting a sweet treat with each additional coffee cup:
+Below is an example of my impressive modeling skills demonstrated through a fun Python function that predicts the likelihood of me getting a sweet treat with each additional cup of coffee:
 
 ```python
 import numpy as np
