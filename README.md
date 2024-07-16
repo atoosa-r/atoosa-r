@@ -29,6 +29,7 @@ coffee_cups = 3
 predicted_likelihood = predict_sweet_treats(coffee_cups)
 print(f'With {coffee_cups} cups of coffee, the likelihood of getting a sweet treat is {predicted_likelihood:.2f}%!')
 
+```
 
 Feel free to explore my work and reach out if you'd like to collaborate!
 
