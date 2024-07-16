@@ -11,20 +11,24 @@ import numpy as np
 from sklearn.linear_model import LinearRegression
 
 def predict_sweet_treats(coffee_cups):
-    # Training data: [number of coffee cups, likelihood of getting a sweet treat (%)]
+    # Independent variable (number of coffee cups)
     X = np.array([[1], [2], [3], [4], [5]])
+    
+    # Dependent variable (likelihood of getting a sweet treat in %)
     y = np.array([80, 60, 40, 20, 10])
     
-    # Create and train the model
-    model = LinearRegression()
-    model.fit(X, y)
+    # 1. Instantiate the model
+    linear_regression_model = LinearRegression()
+    
+    # 2. Fit the model
+    linear_regression_model.fit(X, y)
     
     # Predict the likelihood of getting a sweet treat
-    predicted_likelihood = model.predict(np.array([[coffee_cups]]))
+    predicted_likelihood = linear_regression_model.predict(np.array([[coffee_cups]]))
     
     return predicted_likelihood[0]
 
-# Example usage
+# Example:
 coffee_cups = 3
 predicted_likelihood = predict_sweet_treats(coffee_cups)
 print(f'With {coffee_cups} cups of coffee, the likelihood of getting a sweet treat is {predicted_likelihood:.2f}%!')
