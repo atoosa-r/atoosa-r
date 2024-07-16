@@ -1,6 +1,8 @@
 ## 👋 Introduction
 
-Hi there! I'm Atoosa Rashid, a Data Scientist with over 8 years of experience in CRM, sales, and banking. I recently graduated from a data science program and I bring a unique blend of industry knowledge and technical expertise. Some fun facts about me: I love coffee with something sweet, hikes, yoga, and volunteering. 
+Hi there! I'm Atoosa Rashid, a Data Scientist with over 8 years of experience in CRM, sales, and banking. I recently graduated from a data science program and I bring a unique blend of industry knowledge and technical expertise. 
+
+Some fun facts about me: I love coffee with something sweet, hikes, yoga, and volunteering. 
 
 Feel free to explore my work and reach out if you'd like to collaborate!
 
