@@ -23,11 +23,11 @@ Feel free to explore my work and reach out if you'd like to collaborate!
 #### 📈 Data Visualization
 `Tableau` | `Matplotlib` | `Plotly` | `Seaborn`
 
-#### 🤖 Machine Learning
-`Scikit-learn` | `TensorFlow` | `Keras` | `PyTorch` | `XGBoost` | `NLTK`
+#### 🤖 Machine Learning and Deep Learning
+`Scikit-learn` | `TensorFlow` | `Keras` | `PyTorch` | `XGBoost` | `NLTK` | `BERT` | `Recommender Systems` | `Deep Learning`
 
 #### 📊 Statistics
-`Hypothesis Testing` | `Regression` | `Classification` | `Clustering` | `Time Series Forecasting` | `Deep Learning`
+`Hypothesis Testing` | `A/B Testing` |  `Regression` | `Classification` | `Clustering` | `Time Series Forecasting` | `Predictive Modeling`
 
 #### ☁️ Cloud Computing
 `AWS` | `Spark` | `Hadoop` | `Hive` | `Docker`
