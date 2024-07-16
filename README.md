@@ -27,7 +27,7 @@ Feel free to explore my work and reach out if you'd like to collaborate!
 `Scikit-learn` | `TensorFlow` | `Keras` | `PyTorch` | `XGBoost` | `NLTK` | `BERT` | `Recommender Systems` | `Deep Learning`
 
 #### 📊 Statistics
-`Hypothesis Testing` | `A/B Testing` |  `Regression` | `Classification` | `Clustering` | `Time Series Forecasting` | `Predictive Modeling`
+`Hypothesis Testing` | `A/B Testing` |  `Regression` | `Classification` | `Clustering` | `Time Series Forecasting` 
 
 #### ☁️ Cloud Computing
 `AWS` | `Spark` | `Hadoop` | `Hive` | `Docker`
