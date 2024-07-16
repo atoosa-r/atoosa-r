@@ -15,7 +15,7 @@ def predict_sweet_treats(coffee_cups):
     X = np.array([[1], [2], [3], [4], [5]])
     
     # Dependent variable (likelihood of getting a sweet treat in %)
-    y = np.array([90, 80, 70, 60, 50])
+    y = np.array([94, 82, 63, 35, 15])
     
     # 1. Instantiate the model
     linear_regression_model = LinearRegression()
