@@ -18,7 +18,7 @@ Feel free to explore my work and reach out if you'd like to collaborate!
 </div>
 
 #### 🔢 Data Analysis Libraries
-`NumPy` | `Pandas` | `SciPy`
+`NumPy` | `Pandas` | `SciPy` | `Statsmodels`
 
 #### 📈 Data Visualization
 `Tableau` | `Matplotlib` | `Plotly` | `Seaborn`
