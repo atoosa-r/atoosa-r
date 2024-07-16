@@ -4,6 +4,32 @@ Hi there! I'm Atoosa Rashid, a Data Scientist with over 8 years of experience in
 
 Some fun facts about me: I love coffee (usually alongside something sweet), hikes, yoga, and volunteering. 
 
+Below is an example of my impressive modelling skills via a little Python function to predict the likelihood of me getting a sweet treat with each additional coffee cup:
+
+```python
+import numpy as np
+from sklearn.linear_model import LinearRegression
+
+def predict_sweet_treats(coffee_cups):
+    # Training data: [number of coffee cups, likelihood of getting a sweet treat (%)]
+    X = np.array([[1], [2], [3], [4], [5]])
+    y = np.array([80, 60, 40, 20, 10])
+    
+    # Create and train the model
+    model = LinearRegression()
+    model.fit(X, y)
+    
+    # Predict the likelihood of getting a sweet treat
+    predicted_likelihood = model.predict(np.array([[coffee_cups]]))
+    
+    return predicted_likelihood[0]
+
+# Example usage
+coffee_cups = 3
+predicted_likelihood = predict_sweet_treats(coffee_cups)
+print(f'With {coffee_cups} cups of coffee, the likelihood of getting a sweet treat is {predicted_likelihood:.2f}%!')
+
+
 Feel free to explore my work and reach out if you'd like to collaborate!
 
 ## 🛠️ Languages and Tools:
