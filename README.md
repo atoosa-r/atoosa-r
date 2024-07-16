@@ -57,3 +57,7 @@ For more details, visit the [repository](https://github.com/atoosa-r/BrainStatio
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
 </div>
+
+
+## 📊 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atoosa-r&layout=compact&theme=tokyonight)](https://github.com/atoosa-r/github-readme-stats)
