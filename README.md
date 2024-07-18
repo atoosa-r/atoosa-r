@@ -73,7 +73,7 @@ Feel free to explore my work and reach out if you'd like to collaborate!
 
 Developed robust recommender systems by analyzing transactional data, customer information, and article details. Utilized advanced data preprocessing techniques and implemented multiple algorithms, including User-Item Collaborative Filtering, Matrix Factorization, and BERT-based systems, to enhance customer satisfaction and engagement.
 
-For more details, visit the [repository](https://github.com/atoosa-r/BrainStationCapstone).
+For more details, visit the [repository](https://github.com/atoosa-r/clothing_recommender_systems).
 
 ## 🔗 Let's Connect! 
 
