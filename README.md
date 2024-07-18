@@ -69,9 +69,9 @@ Feel free to explore my work and reach out if you'd like to collaborate!
 
 ## 📚 Data Science Projects:
 
-### Enhancing Shopping Experience through Data-Driven Product Recommendations
+### Enhancing Clothing Recommendations through Data-Driven Recommender Systems
 
-Analyzed H&M Group datasets using advanced data preprocessing techniques. Developed multiple recommender systems incorporating User-Item Collaborative Filtering, Matrix Factorization, and BERT-based systems.
+Developed robust recommender systems by analyzing transactional data, customer information, and article details. Utilized advanced data preprocessing techniques and implemented multiple algorithms, including User-Item Collaborative Filtering, Matrix Factorization, and BERT-based systems, to enhance customer satisfaction and engagement.
 
 For more details, visit the [repository](https://github.com/atoosa-r/BrainStationCapstone).
 
