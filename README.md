@@ -5,7 +5,7 @@ Hi there! I'm Atoosa Rashid, a Data Professional with over 8 years of experience
 Some fun facts about me: I love coffee (usually alongside something sweet), hikes, yoga, and volunteering. 
 
 Below is an example of my modeling skills demonstrated through a fun Python function that predicts the likelihood of me getting a sweet treat with each additional cup of coffee:
-
+ 
 ```python
 import numpy as np
 from sklearn.linear_model import LinearRegression
