@@ -67,7 +67,13 @@ Feel free to explore my work and reach out if you'd like to collaborate!
 `GitHub` | `Git`
 
 
-## 📚 Data Science Projects:
+## 📚 Recent Projects:
+
+### Spotify Streaming Data Analysis
+
+Create your own personalized "Spotify Wrapped" and explore detailed trends and patterns in your listening habits. This project is designed to help users analyze their Spotify streaming data and uncover insights about their music preferences, seasonal listening habits, and overall streaming behavior.
+
+For more details, visit the [repository](https://github.com/atoosa-r/Streaming-Data-Analysis).
 
 ### Enhancing Clothing Recommendations through Data-Driven Recommender Systems
 
