@@ -75,11 +75,13 @@ Create your own personalized "Spotify Wrapped" and explore detailed trends and p
 
 For more details, visit the [repository](https://github.com/atoosa-r/Streaming-Data-Analysis).
 
+
 ### Enhancing Clothing Recommendations through Data-Driven Recommender Systems
 
 Developed robust recommender systems by analyzing transactional data, customer information, and article details. Utilized advanced data preprocessing techniques and implemented multiple algorithms, including User-Item Collaborative Filtering, Matrix Factorization, and BERT-based systems, to enhance customer satisfaction and engagement.
 
 For more details, visit the [repository](https://github.com/atoosa-r/clothing_recommender_systems).
+
 
 ## 🔗 Let's Connect! 
 
